@@ -13,7 +13,8 @@ Auto Features:
 --auto digging
 --auto events
 --auto mailer
---auto webhook to your discord server)
+--auto webhook to your discord server
+--auto buy best eggs
 
 
 Trade Sniper:
